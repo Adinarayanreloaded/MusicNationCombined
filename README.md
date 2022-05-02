@@ -29,3 +29,15 @@ Music Genre Classification
 ![MNG](https://user-images.githubusercontent.com/37697073/166294164-e2176037-8186-4f2a-9046-ee64cff210a4.png)
 ![MNG1](https://user-images.githubusercontent.com/37697073/166294181-a0c797cf-1727-48cf-a726-bb9aeffd1f2d.png)
 ![MNG2](https://user-images.githubusercontent.com/37697073/166294191-a426787d-1db7-4d31-8b17-5cdee7e2aee3.png)
+
+Chatbot
+
+![CB1](https://user-images.githubusercontent.com/37697073/166302635-95348cf5-d6ad-4932-a28c-86f9bf14c779.png)
+![CB2](https://user-images.githubusercontent.com/37697073/166302649-ab2f3ab2-07c0-482e-9920-504215779948.png)
+![CB3](https://user-images.githubusercontent.com/37697073/166302662-dc3a7869-20fe-41d5-b0cb-4f54525461ec.png)
+![CB4](https://user-images.githubusercontent.com/37697073/166302681-a278e052-041a-434b-a1ba-73f727fadac6.png)
+
+
+
+
+
