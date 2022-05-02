@@ -5,7 +5,9 @@ It also helps in the genre classification of the song chosen.
 With the the help of chatbot it navigates through both the things and helps to achieve that.
 
 Credits for inspiration
+
 https://github.com/Ranit-Bandyopadhyay/Music-recommendation-system
+
 https://github.com/niravdedhiya/Music-Genre-Classification-Django
 
 Here the files link
