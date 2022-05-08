@@ -4,6 +4,10 @@ A web application which uses Spotify Api(AI and ML) with help of which we can pr
 It also helps in the genre classification of the song chosen.
 With the the help of chatbot it navigates through both the things and helps to achieve that.
 
+Video
+
+https://drive.google.com/file/d/1pRXQQ78390yLllemwtnjc0UNFpWzN8E8/view?usp=sharing
+
 Credits for inspiration
 
 https://github.com/Ranit-Bandyopadhyay/Music-recommendation-system
